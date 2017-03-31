@@ -1,5 +1,5 @@
 # payroll
-This is a payroll system, built using Php/Mysql and Ajax.
+This is a payroll system built in Php/Mysql and Ajax.
 This web app records payment.
 
 Check the readme text file inside to see Login Details
